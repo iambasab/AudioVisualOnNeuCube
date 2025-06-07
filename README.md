@@ -1,0 +1,1 @@
+Study Oriented Project undertaken by Naman Agarwal and Dharmik Patel towards their UG degree in Computer Science from BITS Pilani Goa Campus. The project was undertaken under the supervision of Basabdatta Sen Bhattacharya, Prof Nik Kasabov, and Dr. Iman AbouHassan.
