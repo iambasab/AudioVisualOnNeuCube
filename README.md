@@ -1,5 +1,6 @@
-The <code*.py> file creates frames out of a video - the Sample.mp4 file is uploaded here. The times were manully set to generate frames with and without frames.
+This work was a Study Oriented Project undertaken by Naman Agarwal, Dharmik Patel and Tanmay Bankar towards their Undergraduate degree in Computer Science from BITS Pilani Goa Campus. The project was undertaken under the supervision of Basabdatta Sen Bhattacharya (BITS P Goa), Nik Kasabov (Kedri, AUT), and Iman AbouHassan (Kedri).
 
-The <normalized.py> script uses .csv files containing audio with and without planes and generates normalised versions of each. All four files are uploaded here.
+All data files required to run the codes are uploaded here. These are the preprocessing files of audio and video data used to train the network on NeuCube.
 
-Study Oriented Project undertaken by Naman Agarwal and Dharmik Patel towards their UG degree in Computer Science from BITS Pilani Goa Campus. The project was undertaken under the supervision of Basabdatta Sen Bhattacharya, Prof Nik Kasabov, and Dr. Iman AbouHassan.
+Citation (Accepted):
+Nikola K. Kasabov, Iman AbouHassan, Naman Agarwal, Dharmik Patel, Tanmay Bankar, Basabdatta Sen Bhattacharya, "AViAMS: Brain-inspired Audio-Visual Associative Memories using Spiking Neural Networks", Neural Computing and Applications
